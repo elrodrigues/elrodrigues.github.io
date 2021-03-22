@@ -12,3 +12,6 @@ As a **[Role]**, I would like **[Requirement]** so that **[Reason]**.
 
 ## Parent Story(s)
 - [ ] Under **[Story]**
+
+## Changes
+- [ ] list changes here

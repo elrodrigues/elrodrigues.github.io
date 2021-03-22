@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ## Task Description
-As a **[Role]**, I would like **[Requirement]** so that **[Reason]**.
+Add task description
 
 ## Parent Story(s)
 - [ ] Under **[Story]**
